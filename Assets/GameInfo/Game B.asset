@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aee3391dd4d53744f9dd11855de89ca0, type: 3}
+  m_Name: Game B
+  m_EditorClassIdentifier: 
+  path: C:\Program Files\Game B\Game B.exe
+  gameName: Game B
+  creatorName: B Games
+  explanation: Game B is third person action game.
+  backgroundTexture: {fileID: 21300000, guid: 15d27cc3f27813b4cba7396f6efd4309, type: 3}

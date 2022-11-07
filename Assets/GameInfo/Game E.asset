@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aee3391dd4d53744f9dd11855de89ca0, type: 3}
+  m_Name: Game E
+  m_EditorClassIdentifier: 
+  path: C:\Program Files\Game E\Game E.exe
+  gameName: Game E
+  creatorName: E Digital
+  explanation: Game E is race game.
+  backgroundTexture: {fileID: 21300000, guid: 30a33832440bd1547aceb5d17cdd4ff3, type: 3}
